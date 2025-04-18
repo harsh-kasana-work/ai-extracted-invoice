@@ -1,0 +1,7 @@
+streamlit
+langchain-groq
+python-dotenv
+opencv-python
+Pillow
+pdf2image
+pytesseract
