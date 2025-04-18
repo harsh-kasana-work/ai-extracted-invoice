@@ -1,5 +1,3 @@
-## This readme is ai generated
-
 # 📄 Invoice OCR & Data Extraction App
 
 This is a Streamlit-based web application for extracting structured data from invoice PDFs and images using OCR and AI.  
