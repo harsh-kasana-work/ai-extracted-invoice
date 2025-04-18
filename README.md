@@ -22,6 +22,7 @@ It converts invoice documents into machine-readable text with **Tesseract OCR**,
 
 - Docker installed on your system
 - A `.env` file for environment variables (if needed for AI extractor or other configs)
+- `GROQ_API_KEY` is needed which you can generate from [https://console.groq.com/keys](https://console.groq.com/keys)
 
 ---
 
